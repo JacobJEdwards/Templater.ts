@@ -1,0 +1,13 @@
+{
+  "name": "Templater.ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JacobJEdwards/Templater.ts",
+  "author": "JacobJEdwards <jacob.john1@talktalk.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
